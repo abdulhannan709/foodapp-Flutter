@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1005989456877",
+    "firebase_url": "https://foodapp-d4548.firebaseio.com",
+    "project_id": "foodapp-d4548",
+    "storage_bucket": "foodapp-d4548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005989456877:android:570d71806d8d84769bd5e4",
+        "android_client_info": {
+          "package_name": "com.sterlof.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005989456877-lf2ilnrgsntr6gnb5kt9bujdrtmntp8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAobilvcMzDDUia8ImAwzcnI7meRM96uEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005989456877-lf2ilnrgsntr6gnb5kt9bujdrtmntp8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
